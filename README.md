@@ -1,2 +1,2 @@
-# Programacao_I
-Códigos da cadeira de Programação I
+# Estudos em Python
+Exercícios feitos para a cadeira de Algoritmos e Programação
